@@ -172,7 +172,7 @@ def Next_Win():
             
             #joining the two catalogs
             df2= pd.concat([df, df1], axis=1)
-            df2.to_csv('DBMS.csv', index= False)
+            df2.to_csv('master_catalog.csv', index= False)
             
             messagebox.showinfo("Success!", "The catalogs has been successfully cross-matched. Please Check your file directory for the final resulting catalog.")
             window2.destroy()
