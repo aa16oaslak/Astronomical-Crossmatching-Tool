@@ -1,5 +1,7 @@
 # Please go through this readme file before accessing the contents of this repository.
-*This readme file contains details regarding the GUI Tool for cross-matching two astronomical catalogues. First, ensure that both catalogs are in csv format and you know all the details regarding the columns/attributes of both catalogs. Now you can follow the below steps to get your cross-matched master catalog.*
+*This readme file contains details regarding the GUI Tool for cross-matching two astronomical catalogues. First, ensure that both catalogs are in csv format and you know all the details regarding the columns/attributes of both catalogs.* 
+
+***Now follow the below steps to get your cross-matched master catalog.***
 
 Steps to use the cross-matching tool:
 - Run the code from the *cross_matching_tool.py* file in a python interpreter (ensure that Tkinter, NumPy, pandas, astropy libraries are already installed in your interpreter).
