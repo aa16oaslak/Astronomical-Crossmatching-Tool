@@ -10,4 +10,4 @@ Steps to use the cross-matching tool:
 - After filling in all the entries, click the button on the bottom of the window. You can now check your final resulting named as *master_catalog.csv* in the local file directory.
 
 
-**Note: If your catalog size is huge, it's highly recommended to first reduce the catalogue size according to your needs and then follow the above procedures.**
+**Note: If your catalog size is huge and your systems RAM is low, it's highly recommended to first reduce the catalogue size according to your needs and then follow the above procedures.**
