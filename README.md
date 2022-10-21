@@ -11,3 +11,10 @@ Steps to use the cross-matching tool:
 
 
 **Note: If your catalog size is huge and your systems RAM is low, it's highly recommended to first reduce the catalogue size according to your needs and then follow the above procedures.**
+
+# Some snapshots of the Tool
+
+![Screenshot 2021-08-27 032015](https://user-images.githubusercontent.com/84286089/197284300-6fc85242-b808-4981-abf2-4a62e14c7424.png)
+![Screenshot 2021-08-27 032528](https://user-images.githubusercontent.com/84286089/197284302-30f66f2d-a67e-4347-9b8e-5b829d892f02.png)
+![Screenshot 2021-08-27 032644](https://user-images.githubusercontent.com/84286089/197284306-6a69a002-5804-4771-b5e6-0f11d8166b79.png)
+![Screenshot 2021-08-27 031307](https://user-images.githubusercontent.com/84286089/197284309-a3fad5b8-4664-4b7e-8656-fb5d416bf22c.png)
